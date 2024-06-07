@@ -1,6 +1,12 @@
 ✏️ A simple website to show the weather forecast of cities all over the world using HTML, CSS, JS❗
 
-# Project Overview: Weather 
+# Demo
+  You can view a live demo of the project
+
+https://github.com/Sindhu898/Bharat_intern_weather-_website/assets/163533750/10143339-9cf5-4563-9cce-e3b5d933b24e
+
+ # Project Overview: Weather 
+ 
 The Weather Fetcher Website is a dynamic, user-friendly web application designed to provide users with real-time weather updates for any location. 
 Built with HTML, CSS, and JavaScript, this project leverages the power of a weather API (such as OpenWeatherMap) to fetch and display current weather
 conditions, including temperature, humidity, wind speed, and a brief weather description.
@@ -13,6 +19,8 @@ User Interface:
   CSS: Enhancing visual appeal through modern, responsive design practices, ensuring compatibility across devices.
 
   JavaScript: Adding interactivity and handling API requests.
+
+  
 # User Experience:
 
 Allowing users to search for weather conditions by entering a city name.
